@@ -13,7 +13,7 @@ USG Audit Failures Inspector
         :target: https://usg-audit-failures-inspector.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-
+**This project has been archived and is no longer being maintained.**
 
 
 Command line utility to diff oscal/usg XML audit reports.
